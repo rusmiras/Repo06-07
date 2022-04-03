@@ -26,3 +26,85 @@ div.description {
     padding: 0 20px 0px 20px;
     text-align: justify;   
 }
+
+#im9 {
+    display: none;
+}
+
+#im9:target {
+    display: block;
+    width: 800px;
+    height: 600px;
+}
+#im8 {
+    display: none;
+}
+
+#im8:target {
+    display: block;
+    width: 800px;
+    height: 600px;
+}
+#im7 {
+    display: none;
+}
+
+#im7:target {
+    display: block;
+    width: 800px;
+    height: 600px;
+}
+#im6 {
+    display: none;
+}
+
+#im6:target {
+    display: block;
+    width: 800px;
+    height: 600px;
+}
+#im5 {
+    display: none;
+}
+
+#im5:target {
+    display: block;
+    width: 800px;
+    height: 600px;
+}
+#im4 {
+    display: none;
+}
+
+#im4:target {
+    display: block;
+    width: 800px;
+    height: 600px;
+}
+#im3 {
+    display: none;
+}
+
+#im3:target {
+    display: block;
+    width: 800px;
+    height: 600px;
+}
+#im2 {
+    display: none;
+}
+
+#im2:target {
+    display: block;
+    width: 800px;
+    height: 600px;
+}
+#im1 {
+    display: none;
+}
+
+#im1:target {
+    display: block;
+    width: 800px;
+    height: 600px;
+}
