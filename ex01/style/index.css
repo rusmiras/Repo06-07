@@ -2,16 +2,18 @@ h1 {
     color: red;
     text-align: center;
 }
+
 p {
     color: #add8e6;
     padding-left: 20px;
 }
+
 div.card {
     padding: 20px;
     float: left;
 }
 
-div.gallery{
+div.gallery {
     display: grid;
     width: 1100px;
     margin: auto;
@@ -22,9 +24,10 @@ div.card img {
     width: 100%;
     height: 250px;
 }
+
 div.description {
     padding: 0 20px 0px 20px;
-    text-align: justify;   
+    text-align: justify;
 }
 
 #im9 {
@@ -36,6 +39,7 @@ div.description {
     width: 800px;
     height: 600px;
 }
+
 #im8 {
     display: none;
 }
@@ -45,6 +49,7 @@ div.description {
     width: 800px;
     height: 600px;
 }
+
 #im7 {
     display: none;
 }
@@ -54,6 +59,7 @@ div.description {
     width: 800px;
     height: 600px;
 }
+
 #im6 {
     display: none;
 }
@@ -63,6 +69,7 @@ div.description {
     width: 800px;
     height: 600px;
 }
+
 #im5 {
     display: none;
 }
@@ -72,6 +79,7 @@ div.description {
     width: 800px;
     height: 600px;
 }
+
 #im4 {
     display: none;
 }
@@ -81,6 +89,7 @@ div.description {
     width: 800px;
     height: 600px;
 }
+
 #im3 {
     display: none;
 }
@@ -90,6 +99,7 @@ div.description {
     width: 800px;
     height: 600px;
 }
+
 #im2 {
     display: none;
 }
@@ -99,6 +109,7 @@ div.description {
     width: 800px;
     height: 600px;
 }
+
 #im1 {
     display: none;
 }
